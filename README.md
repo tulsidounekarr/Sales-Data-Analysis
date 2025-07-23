@@ -46,14 +46,7 @@ README.md                         # Project document
 ---
 
 # 📸 Preview
-
-   Department  Total Sales
-   ----------  ------------
-   Grocery     ₹12,300
-   Electronics ₹24,700
-   Clothing    ₹8,100
-
-   [Bar chart showing monthly sales]
+![image alt](https://github.com/tulsidounekarr/Sales-Data-Analysis/blob/a1f6e3095ab1db14e468b854f43bf6da3ce82f4f/image%20(11).png)
 
 ---
 
